@@ -1,0 +1,405 @@
+{
+  "amiibos": {
+    "0x0000000000000002": {
+      "games": {
+        "3DS": [
+          {"name": "Ace Combat Assault Horizon Legacy+", "ids": ["0004000000064900", "000400000006CC00", "000400000015A300", "000400000015C000"], "usage": ["Unlock character-themed aircraft, bonus skin, tuning part"]},
+          {"name": "Chibi-Robo! Zip Lash", "ids": ["0004000000162F00", "0004000000163000"], "usage": ["Unlock figure in character's pose (Chibi-Robo amiibo required)"]},
+          {"name": "Kirby: Planet Robobot", "ids": ["0004000000183600", "0004000000189600", "0004000000189800"], "usage": ["Kirby gains character-based Copy ability, health item"]},
+          {"name": "Luigi's Mansion", "ids": ["0004000000055F00", "0004000000076500", "00040000000D0000", "00040000001D1900", "00040000001D1A00"], "usage": ["Mushrooms become health-restoring Super Mushrooms"]},
+          {"name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey", "ids": ["00040000001D1400", "00040000001D1500"], "usage": ["Receive helpful item"]},
+          {"name": "Mario & Luigi: Paper Jam", "ids": ["0004000000132700", "0004000000132800", "000400000018A100"], "usage": ["Unlock character cards for battle", "write"]},
+          {"name": "Mario & Luigi: Superstar Saga + Bowser's Minions", "ids": ["00040000001B8F00", "00040000001B9000"], "usage": ["Receive stamp, equipment for main quest"]},
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["000400000017E200", "000400000017E300", "0004000000192400"], "usage": ["Boost Mario Mii suit power for the day"]},
+          {"name": "Mario Party: Star Rush", "ids": ["0004000000193900", "000400000019BD00", "000400000019BE00"], "usage": ["Play as or receive bonus from character"]},
+          {"name": "Mario Party: The Top 100", "ids": ["00040000001C4D00", "00040000001C4E00"], "usage": ["Minigame Island: Get coins or revive on amiibo space"]},
+          {"name": "Metroid Prime: Blast Ball", "ids": ["0004000000175300"], "usage": ["Unlock character-based armor paint job"]},
+          {"name": "Metroid Prime: Federation Force", "ids": ["000400000016CE00", "000400000016E300", "0004000000175200"], "usage": ["Unlock character-based armor paint job for Blast Ball"]},
+          {"name": "Miitopia", "ids": ["0004000000178800", "00040000001B4E00", "00040000001B4F00"], "usage": ["Unlock character-based costume"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["000400000016C200", "000400000016C300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "One Piece: Super Grand Battle! X", "ids": ["0004000000144400"], "usage": ["Unlock character-based costume with special abilities"]},
+          {"name": "Picross 3D Round 2", "ids": ["0004000000187E00"], "usage": ["Unlock character-based puzzle"]},
+          {"name": "Style Savvy: Fashion Forward", "ids": ["0004000000196500"], "usage": ["Unlock character-themed accessory"]},
+          {"name": "Style Savvy: Styling Star", "ids": ["00040000001C2500"], "usage": ["Unlock character-themed pattern"]},
+          {"name": "Super Smash Bros. for Nintendo 3DS", "ids": ["00040000000EDF00", "00040000000EE000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "WarioWare Gold", "ids": ["00040000001D1C00"], "usage": ["Get Wario's character sketch for in-game coins"]},
+          {"name": "Yoshi's Woolly World", "ids": ["00040000001A4100", "00040000001A4200", "00040000001B6C00", "00040000001B6D00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "WiiU": [
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["0005000010190300", "00050000101E5300", "00050000101E5400"], "usage": ["Play Mario League to unlock Mario Mii costume"]},
+          {"name": "Mario Kart 8", "ids": ["000500001010EB00", "000500001010EC00", "000500001010ED00"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Mario Party 10", "ids": ["0005000010161F00", "0005000010162D00", "0005000010162E00"], "usage": ["Customize board in amiibo Party", "Use as game piece in amiibo Party", "write"]},
+          {"name": "Mario Tennis: Ultra Smash", "ids": ["0005000010199000", "00050000101A3500", "00050000101A3600"], "usage": ["Train computer-controlled character", "write"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["00050000101C6100", "00050000101C6200", "00050000101C6300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "Super Mario Maker", "ids": ["000500001018DB00", "000500001018DC00", "000500001018DD00"], "usage": ["Unlock character-based Mystery Mushroom costume"]},
+          {"name": "Super Smash Bros. for Wii U", "ids": ["0005000010110E00", "0005000010144F00", "0005000010145000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Woolly World", "ids": ["0005000010131F00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "Switch": [
+          {"name": "Mario + Rabbids: Kingdom Battle", "ids": ["010067300059A000"], "usage": ["Unlock amiibo-exclusive weapon for character and Rabbid counterpart"]},
+          {"name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Miitopia", "ids": ["01003DA010E8A000"], "usage": ["Unlock character-based costume"]},
+          {"name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600EBDA000"], "usage": ["Receive character-specific power-up"]},
+          {"name": "Super Mario Odyssey", "ids": ["0100000000010000"], "usage": ["Gain temporary invincibility", "Receive character-based costume"]},
+          {"name": "Super Mario Party", "ids": ["010036B0034E4000"], "usage": ["Unlock character's shiny sticker"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Crafted World", "ids": ["01006000040C2000"], "usage": ["Unlock character-based costume"]}
+        ]
+      }
+    },
+    "0x0000000000340102": {
+      "games": {
+        "3DS": [
+          {"name": "Ace Combat Assault Horizon Legacy+", "ids": ["0004000000064900", "000400000006CC00", "000400000015A300", "000400000015C000"], "usage": ["Unlock character-themed aircraft, bonus skin, tuning part"]},
+          {"name": "Chibi-Robo! Zip Lash", "ids": ["0004000000162F00", "0004000000163000"], "usage": ["Unlock figure in character's pose (Chibi-Robo amiibo required)"]},
+          {"name": "Hey! Pikmin", "ids": ["00040000001A9200", "00040000001AF800", "00040000001AFA00", "00040000001C5900"], "usage": ["Figure appears in-game, collect for energy points"]},
+          {"name": "Kirby: Planet Robobot", "ids": ["0004000000183600", "0004000000189600", "0004000000189800"], "usage": ["Kirby gains character-based Copy ability, health item"]},
+          {"name": "Luigi's Mansion", "ids": ["0004000000055F00", "0004000000076500", "00040000000D0000", "00040000001D1900", "00040000001D1A00"], "usage": ["Mushrooms become health-restoring Super Mushrooms"]},
+          {"name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey", "ids": ["00040000001D1400", "00040000001D1500"], "usage": ["Receive helpful item"]},
+          {"name": "Mario & Luigi: Paper Jam", "ids": ["0004000000132700", "0004000000132800", "000400000018A100"], "usage": ["Unlock character cards for battle", "write"]},
+          {"name": "Mario & Luigi: Superstar Saga + Bowser's Minions", "ids": ["00040000001B8F00", "00040000001B9000"], "usage": ["Receive stamp, equipment for main quest"]},
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["000400000017E200", "000400000017E300", "0004000000192400"], "usage": ["Boost Mario Mii suit power for the day"]},
+          {"name": "Mario Party: Star Rush", "ids": ["0004000000193900", "000400000019BD00", "000400000019BE00"], "usage": ["Play as or receive bonus from character"]},
+          {"name": "Mario Party: The Top 100", "ids": ["00040000001C4D00", "00040000001C4E00"], "usage": ["Minigame Island: Get coins or revive on amiibo space"]},
+          {"name": "Metroid Prime: Blast Ball", "ids": ["0004000000175300"], "usage": ["Unlock character-based armor paint job"]},
+          {"name": "Metroid Prime: Federation Force", "ids": ["000400000016CE00", "000400000016E300", "0004000000175200"], "usage": ["Unlock character-based armor paint job for Blast Ball"]},
+          {"name": "Miitopia", "ids": ["0004000000178800", "00040000001B4E00", "00040000001B4F00"], "usage": ["Unlock character-based costume"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["000400000016C200", "000400000016C300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "One Piece: Super Grand Battle! X", "ids": ["0004000000144400"], "usage": ["Unlock character-based costume with special abilities"]},
+          {"name": "Picross 3D Round 2", "ids": ["0004000000187E00"], "usage": ["Unlock character-based puzzle"]},
+          {"name": "Style Savvy: Fashion Forward", "ids": ["0004000000196500"], "usage": ["Unlock character-themed accessory"]},
+          {"name": "Style Savvy: Styling Star", "ids": ["00040000001C2500"], "usage": ["Unlock character-themed pattern"]},
+          {"name": "Super Smash Bros. for Nintendo 3DS", "ids": ["00040000000EDF00", "00040000000EE000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "WarioWare Gold", "ids": ["00040000001D1C00"], "usage": ["Get Wario's character sketch for in-game coins"]},
+          {"name": "Yoshi's Woolly World", "ids": ["00040000001A4100", "00040000001A4200", "00040000001B6C00", "00040000001B6D00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "WiiU": [
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["0005000010190300", "00050000101E5300", "00050000101E5400"], "usage": ["Play Mario League to unlock Mario Mii costume"]},
+          {"name": "Mario Kart 8", "ids": ["000500001010EB00", "000500001010EC00", "000500001010ED00"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Mario Party 10", "ids": ["0005000010161F00", "0005000010162D00", "0005000010162E00"], "usage": ["Customize board in amiibo Party", "Use as game piece in amiibo Party", "write"]},
+          {"name": "Mario Tennis: Ultra Smash", "ids": ["0005000010199000", "00050000101A3500", "00050000101A3600"], "usage": ["Train computer-controlled character", "write"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["00050000101C6100", "00050000101C6200", "00050000101C6300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "Super Mario Maker", "ids": ["000500001018DB00", "000500001018DC00", "000500001018DD00"], "usage": ["Unlock character-based Mystery Mushroom costume"]},
+          {"name": "Super Smash Bros. for Wii U", "ids": ["0005000010110E00", "0005000010144F00", "0005000010145000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Woolly World", "ids": ["0005000010131F00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "Switch": [
+          {"name": "Conga Master Party!", "ids": ["01007EF00399C000"], "usage": ["Unlock special costume"]},
+          {"name": "Mario + Rabbids: Kingdom Battle", "ids": ["010067300059A000"], "usage": ["Unlock amiibo-exclusive weapon for character and Rabbid counterpart"]},
+          {"name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Miitopia", "ids": ["01003DA010E8A000"], "usage": ["Unlock character-based costume"]},
+          {"name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600EBDA000"], "usage": ["Receive character-specific power-up"]},
+          {"name": "Super Mario Odyssey", "ids": ["0100000000010000"], "usage": ["Gain temporary invincibility", "Receive character-based costume"]},
+          {"name": "Super Mario Party", "ids": ["010036B0034E4000"], "usage": ["Unlock character's shiny sticker"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Crafted World", "ids": ["01006000040C2000"], "usage": ["Unlock character-based costume"]}
+        ]
+      }
+    },
+    "0x00000000003c0102": {
+      "games": {
+        "3DS": [
+          {"name": "Ace Combat Assault Horizon Legacy+", "ids": ["0004000000064900", "000400000006CC00", "000400000015A300", "000400000015C000"], "usage": ["Unlock character-themed aircraft, bonus skin, tuning part"]},
+          {"name": "Chibi-Robo! Zip Lash", "ids": ["0004000000162F00", "0004000000163000"], "usage": ["Unlock figure in character's pose (Chibi-Robo amiibo required)"]},
+          {"name": "Hey! Pikmin", "ids": ["00040000001A9200", "00040000001AF800", "00040000001AFA00", "00040000001C5900"], "usage": ["Figure appears in-game, collect for energy points"]},
+          {"name": "Kirby: Planet Robobot", "ids": ["0004000000183600", "0004000000189600", "0004000000189800"], "usage": ["Kirby gains character-based Copy ability, health item"]},
+          {"name": "Luigi's Mansion", "ids": ["0004000000055F00", "0004000000076500", "00040000000D0000", "00040000001D1900", "00040000001D1A00"], "usage": ["Mushrooms become health-restoring Super Mushrooms"]},
+          {"name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey", "ids": ["00040000001D1400", "00040000001D1500"], "usage": ["Receive helpful item"]},
+          {"name": "Mario & Luigi: Paper Jam", "ids": ["0004000000132700", "0004000000132800", "000400000018A100"], "usage": ["Unlock character cards for battle", "write"]},
+          {"name": "Mario & Luigi: Superstar Saga + Bowser's Minions", "ids": ["00040000001B8F00", "00040000001B9000"], "usage": ["Receive stamp, equipment for main quest"]},
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["000400000017E200", "000400000017E300", "0004000000192400"], "usage": ["Boost Mario Mii suit power for the day"]},
+          {"name": "Mario Party: Star Rush", "ids": ["0004000000193900", "000400000019BD00", "000400000019BE00"], "usage": ["Play as or receive bonus from character"]},
+          {"name": "Mario Party: The Top 100", "ids": ["00040000001C4D00", "00040000001C4E00"], "usage": ["Minigame Island: Get coins or revive on amiibo space"]},
+          {"name": "Metroid Prime: Blast Ball", "ids": ["0004000000175300"], "usage": ["Unlock character-based armor paint job"]},
+          {"name": "Metroid Prime: Federation Force", "ids": ["000400000016CE00", "000400000016E300", "0004000000175200"], "usage": ["Unlock character-based armor paint job for Blast Ball"]},
+          {"name": "Miitopia", "ids": ["0004000000178800", "00040000001B4E00", "00040000001B4F00"], "usage": ["Unlock character-based costume"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["000400000016C200", "000400000016C300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "One Piece: Super Grand Battle! X", "ids": ["0004000000144400"], "usage": ["Unlock character-based costume with special abilities"]},
+          {"name": "Picross 3D Round 2", "ids": ["0004000000187E00"], "usage": ["Unlock character-based puzzle"]},
+          {"name": "Style Savvy: Fashion Forward", "ids": ["0004000000196500"], "usage": ["Unlock character-themed accessory"]},
+          {"name": "Style Savvy: Styling Star", "ids": ["00040000001C2500"], "usage": ["Unlock character-themed pattern"]},
+          {"name": "Super Smash Bros. for Nintendo 3DS", "ids": ["00040000000EDF00", "00040000000EE000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "WarioWare Gold", "ids": ["00040000001D1C00"], "usage": ["Get Wario's character sketch for in-game coins"]},
+          {"name": "Yoshi's Woolly World", "ids": ["00040000001A4100", "00040000001A4200", "00040000001B6C00", "00040000001B6D00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "WiiU": [
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["0005000010190300", "00050000101E5300", "00050000101E5400"], "usage": ["Play Mario League to unlock Mario Mii costume"]},
+          {"name": "Mario Kart 8", "ids": ["000500001010EB00", "000500001010EC00", "000500001010ED00"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Mario Party 10", "ids": ["0005000010161F00", "0005000010162D00", "0005000010162E00"], "usage": ["Customize board in amiibo Party", "Use as game piece in amiibo Party", "write"]},
+          {"name": "Mario Tennis: Ultra Smash", "ids": ["0005000010199000", "00050000101A3500", "00050000101A3600"], "usage": ["Train computer-controlled character", "write"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["00050000101C6100", "00050000101C6200", "00050000101C6300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "Super Mario Maker", "ids": ["000500001018DB00", "000500001018DC00", "000500001018DD00"], "usage": ["Unlock character-based Mystery Mushroom costume"]},
+          {"name": "Super Smash Bros. for Wii U", "ids": ["0005000010110E00", "0005000010144F00", "0005000010145000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Woolly World", "ids": ["0005000010131F00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "Switch": [
+          {"name": "Conga Master Party!", "ids": ["01007EF00399C000"], "usage": ["Unlock special costume"]},
+          {"name": "Mario + Rabbids: Kingdom Battle", "ids": ["010067300059A000"], "usage": ["Unlock amiibo-exclusive weapon for character and Rabbid counterpart"]},
+          {"name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Miitopia", "ids": ["01003DA010E8A000"], "usage": ["Unlock character-based costume"]},
+          {"name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600EBDA000"], "usage": ["Receive character-specific power-up"]},
+          {"name": "Super Mario Odyssey", "ids": ["0100000000010000"], "usage": ["Gain temporary invincibility", "Receive character-based costume"]},
+          {"name": "Super Mario Party", "ids": ["010036B0034E4000"], "usage": ["Unlock character's shiny sticker"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Crafted World", "ids": ["01006000040C2000"], "usage": ["Unlock character-based costume"]}
+        ]
+      }
+    },
+    "0x00000000003d0102": {
+      "games": {
+        "3DS": [
+          {"name": "Ace Combat Assault Horizon Legacy+", "ids": ["0004000000064900", "000400000006CC00", "000400000015A300", "000400000015C000"], "usage": ["Unlock character-themed aircraft, bonus skin, tuning part"]},
+          {"name": "Chibi-Robo! Zip Lash", "ids": ["0004000000162F00", "0004000000163000"], "usage": ["Unlock figure in character's pose (Chibi-Robo amiibo required)"]},
+          {"name": "Hey! Pikmin", "ids": ["00040000001A9200", "00040000001AF800", "00040000001AFA00", "00040000001C5900"], "usage": ["Figure appears in-game, collect for energy points"]},
+          {"name": "Kirby: Planet Robobot", "ids": ["0004000000183600", "0004000000189600", "0004000000189800"], "usage": ["Kirby gains character-based Copy ability, health item"]},
+          {"name": "Luigi's Mansion", "ids": ["0004000000055F00", "0004000000076500", "00040000000D0000", "00040000001D1900", "00040000001D1A00"], "usage": ["Mushrooms become health-restoring Super Mushrooms"]},
+          {"name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey", "ids": ["00040000001D1400", "00040000001D1500"], "usage": ["Receive helpful item"]},
+          {"name": "Mario & Luigi: Paper Jam", "ids": ["0004000000132700", "0004000000132800", "000400000018A100"], "usage": ["Unlock character cards for battle", "write"]},
+          {"name": "Mario & Luigi: Superstar Saga + Bowser's Minions", "ids": ["00040000001B8F00", "00040000001B9000"], "usage": ["Receive stamp, equipment for main quest"]},
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["000400000017E200", "000400000017E300", "0004000000192400"], "usage": ["Boost Mario Mii suit power for the day"]},
+          {"name": "Mario Party: Star Rush", "ids": ["0004000000193900", "000400000019BD00", "000400000019BE00"], "usage": ["Play as or receive bonus from character"]},
+          {"name": "Mario Party: The Top 100", "ids": ["00040000001C4D00", "00040000001C4E00"], "usage": ["Minigame Island: Get coins or revive on amiibo space"]},
+          {"name": "Metroid Prime: Blast Ball", "ids": ["0004000000175300"], "usage": ["Unlock character-based armor paint job"]},
+          {"name": "Metroid Prime: Federation Force", "ids": ["000400000016CE00", "000400000016E300", "0004000000175200"], "usage": ["Unlock character-based armor paint job for Blast Ball"]},
+          {"name": "Miitopia", "ids": ["0004000000178800", "00040000001B4E00", "00040000001B4F00"], "usage": ["Unlock character-based costume"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["000400000016C200", "000400000016C300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "One Piece: Super Grand Battle! X", "ids": ["0004000000144400"], "usage": ["Unlock character-based costume with special abilities"]},
+          {"name": "Picross 3D Round 2", "ids": ["0004000000187E00"], "usage": ["Unlock character-based puzzle"]},
+          {"name": "Style Savvy: Fashion Forward", "ids": ["0004000000196500"], "usage": ["Unlock character-themed accessory"]},
+          {"name": "Style Savvy: Styling Star", "ids": ["00040000001C2500"], "usage": ["Unlock character-themed pattern"]},
+          {"name": "Super Smash Bros. for Nintendo 3DS", "ids": ["00040000000EDF00", "00040000000EE000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "WarioWare Gold", "ids": ["00040000001D1C00"], "usage": ["Get Wario's character sketch for in-game coins"]},
+          {"name": "Yoshi's Woolly World", "ids": ["00040000001A4100", "00040000001A4200", "00040000001B6C00", "00040000001B6D00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "WiiU": [
+          {"name": "Mario & Sonic at the Rio 2016 Olympic Games", "ids": ["0005000010190300", "00050000101E5300", "00050000101E5400"], "usage": ["Play Mario League to unlock Mario Mii costume"]},
+          {"name": "Mario Kart 8", "ids": ["000500001010EB00", "000500001010EC00", "000500001010ED00"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Mario Party 10", "ids": ["0005000010161F00", "0005000010162D00", "0005000010162E00"], "usage": ["Customize board in amiibo Party", "Use as game piece in amiibo Party", "write"]},
+          {"name": "Mario Tennis: Ultra Smash", "ids": ["0005000010199000", "00050000101A3500", "00050000101A3600"], "usage": ["Train computer-controlled character", "write"]},
+          {"name": "Mini Mario & Friends amiibo Challenge", "ids": ["00050000101C6100", "00050000101C6200", "00050000101C6300"], "usage": ["Play as Mini character with unique ability, unlock specific stages"]},
+          {"name": "Super Mario Maker", "ids": ["000500001018DB00", "000500001018DC00", "000500001018DD00"], "usage": ["Unlock character-based Mystery Mushroom costume"]},
+          {"name": "Super Smash Bros. for Wii U", "ids": ["0005000010110E00", "0005000010144F00", "0005000010145000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Woolly World", "ids": ["0005000010131F00"], "usage": ["Unlock character-based Yoshi yarn pattern"]}
+        ],
+        "Switch": [
+          {"name": "Conga Master Party!", "ids": ["01007EF00399C000"], "usage": ["Unlock special costume"]},
+          {"name": "Mario + Rabbids: Kingdom Battle", "ids": ["010067300059A000"], "usage": ["Unlock amiibo-exclusive weapon for character and Rabbid counterpart"]},
+          {"name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "usage": ["Unlock character-themed Mii racing suit"]},
+          {"name": "Miitopia", "ids": ["01003DA010E8A000"], "usage": ["Unlock character-based costume"]},
+          {"name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600EBDA000"], "usage": ["Receive character-specific power-up"]},
+          {"name": "Super Mario Odyssey", "ids": ["0100000000010000"], "usage": ["Gain temporary invincibility", "Receive character-based costume"]},
+          {"name": "Super Mario Party", "ids": ["010036B0034E4000"], "usage": ["Unlock character's shiny sticker"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Train computer-controlled Figure Player", "write"]},
+          {"name": "Yoshi's Crafted World", "ids": ["01006000040C2000"], "usage": ["Unlock character-based costume"]}
+        ]
+      }
+    },
+    "0x0010000002b20402": {
+      "games": {
+        "3DS": [
+          {"name": "Animal Crossing: Happy Home Designer", "ids": ["000400000015AD00", "000400000015AE00", "000400000015AF00"], "usage": ["Invite amiibo-exclusive villager to visit or design home", "Save design data to amiibo card", "write"]},
+          {"name": "Animal Crossing: New Leaf", "ids": ["0004000000086300", "0004000000086400", "0004000000086500"], "usage": ["Invite villager Felyne to campsite, get item, or move to town"]},
+          {"name": "Monster Hunter Stories", "ids": ["000400000016E100", "00040000001BC500", "00040000001BC600"], "usage": ["Unlock special Monstie"]}
+        ],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock Monster Hunter Stories 2 sticker set"]},
+          {"name": "Monster Hunter Stories", "ids": ["010069301B1D4000"], "usage": ["Receive character-based monstie egg"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hakum Rider Outfit layered armor, Tsukino fortune for random item"]},
+          {"name": "Resident Evil Revelations", "ids": ["0100643002136000"], "usage": ["Receive lots of BP, better supplies"]},
+          {"name": "Resident Evil Revelations 2", "ids": ["010095300212A000"], "usage": ["Receive lots of BP, better supplies"]}
+        ]
+      }
+    },
+    "0x35050000040c0f02": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock Monster Hunter Stories 2 sticker set"]},
+          {"name": "Monster Hunter Stories", "ids": ["010069301B1D4000"], "usage": ["Receive character-based Navirou costume"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock character-specific layered armor, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x35060000040d0f02": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock Monster Hunter Stories 2 sticker set"]},
+          {"name": "Monster Hunter Stories", "ids": ["010069301B1D4000"], "usage": ["Receive character-based Navirou costume"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock character-specific layered armor, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x35070000040e0f02": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock Monster Hunter Stories 2 sticker set"]},
+          {"name": "Monster Hunter Stories", "ids": ["010069301B1D4000"], "usage": ["Receive character-based Navirou costume"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock character-specific layered armor, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x35080000040f1802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hunter Sticker Set, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x3509000004101802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hunter Sticker Set, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x35090100042b1802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hunter Sticker Set, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x350a000004111802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hunter Sticker Set, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x350a0100042c1802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]},
+          {"name": "Monster Hunter Stories 2: Wings of Ruin", "ids": ["0100E21011446000"], "usage": ["Unlock Hunter Sticker Set, Tsukino fortune for random item"]}
+        ]
+      }
+    },
+    "0x350b0000042d1802": {
+      "games": {
+        "3DS": [],
+        "WiiU": [],
+        "Switch": [
+          {"name": "Monster Hunter Rise", "ids": ["0100B04011742000"], "usage": ["Unlock special layered armor, daily lottery for items"]}
+        ]
+      }
+    },
+    "0x35c0000002500a02": {
+      "games": {
+        "3DS": [
+          {"name": "Azure Striker Gunvolt 2", "ids": ["00040000001A6E00"], "usage": ["Unlock boss fight against Shovel Knight"]},
+          {"name": "Shovel Knight", "ids": ["0004000000119A00", "000400000012CB00", "000400000017C900", "000400000017E100", "0004000000196900"], "usage": ["Unlock challenge stages, fairy companion, costume", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]}
+        ],
+        "WiiU": [
+          {"name": "Shovel Knight", "ids": ["000500001016E100", "0005000010178F00", "00050000101D9300"], "usage": ["Unlock challenge stages, fairy companion, costumes", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]}
+        ],
+        "Switch": [
+          {"name": "Azure Striker Gunvolt: Striker Pack", "ids": ["0100192003FA4000"], "usage": ["Unlock boss fight against Shovel Knight"]},
+          {"name": "Cyber Shadow", "ids": ["01008D100DE46000"], "usage": ["Unlock fairy companion, player color palette"]},
+          {"name": "Just Shapes & Beats", "ids": ["0100830008426000"], "usage": ["Unlock Shovel Knight remix"]},
+          {"name": "Shovel Knight", "ids": ["010057D0021E8000"], "usage": ["Unlock challenge stages, fairy companion, costumes", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]},
+          {"name": "Shovel Knight Dig", "ids": ["0100B62017E68000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Pocket Dungeon", "ids": ["01006B00126EC000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Showdown", "ids": ["0100B380022AE000"], "usage": ["Unlock special costume"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Receive character Spirit"]}
+        ]
+      }
+    },
+    "0x35c0000003920a02": {
+      "games": {
+        "3DS": [
+          {"name": "Azure Striker Gunvolt 2", "ids": ["00040000001A6E00"], "usage": ["Unlock boss fight against Shovel Knight"]},
+          {"name": "Shovel Knight", "ids": ["0004000000119A00", "000400000012CB00", "000400000017C900", "000400000017E100", "0004000000196900"], "usage": ["Unlock challenge stages, fairy companion, costume", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]}
+        ],
+        "WiiU": [
+          {"name": "Shovel Knight", "ids": ["000500001016E100", "0005000010178F00", "00050000101D9300"], "usage": ["Unlock challenge stages, fairy companion, costumes", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]}
+        ],
+        "Switch": [
+          {"name": "Azure Striker Gunvolt: Striker Pack", "ids": ["0100192003FA4000"], "usage": ["Unlock boss fight against Shovel Knight"]},
+          {"name": "Cyber Shadow", "ids": ["01008D100DE46000"], "usage": ["Unlock fairy companion, player color palette"]},
+          {"name": "Just Shapes & Beats", "ids": ["0100830008426000"], "usage": ["Unlock Shovel Knight remix"]},
+          {"name": "Shovel Knight", "ids": ["010057D0021E8000"], "usage": ["Unlock challenge stages, fairy companion, costumes", "Unlock Custom Knight, save customizations (Shovel of Hope)", "write"]},
+          {"name": "Shovel Knight Dig", "ids": ["0100B62017E68000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Pocket Dungeon", "ids": ["01006B00126EC000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Showdown", "ids": ["0100B380022AE000"], "usage": ["Unlock special costume"]}
+        ]
+      }
+    },
+    "0x35c10000036c0a02": {
+      "games": {
+        "3DS": [
+          {"name": "Shovel Knight", "ids": ["0004000000119A00", "000400000012CB00", "000400000017C900", "000400000017E100", "0004000000196900"], "usage": ["Unlock challenge stages, fairy companion, costume"]}
+        ],
+        "WiiU": [
+          {"name": "Shovel Knight", "ids": ["000500001016E100", "0005000010178F00", "00050000101D9300"], "usage": ["Unlock challenge stages, fairy companion, costumes"]}
+        ],
+        "Switch": [
+          {"name": "Cyber Shadow", "ids": ["01008D100DE46000"], "usage": ["Unlock fairy companion, player color palette"]},
+          {"name": "Just Shapes & Beats", "ids": ["0100830008426000"], "usage": ["Unlock Shovel Knight remix"]},
+          {"name": "Shovel Knight", "ids": ["010057D0021E8000"], "usage": ["Unlock challenge stages, fairy companion, costumes"]},
+          {"name": "Shovel Knight Dig", "ids": ["0100B62017E68000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Pocket Dungeon", "ids": ["01006B00126EC000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Showdown", "ids": ["0100B380022AE000"], "usage": ["Unlock special costume"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Receive character Spirit"]}
+        ]
+      }
+    },
+    "0x35c20000036d0a02": {
+      "games": {
+        "3DS": [
+          {"name": "Shovel Knight", "ids": ["0004000000119A00", "000400000012CB00", "000400000017C900", "000400000017E100", "0004000000196900"], "usage": ["Unlock challenge stages, fairy companion, costume"]}
+        ],
+        "WiiU": [
+          {"name": "Shovel Knight", "ids": ["000500001016E100", "0005000010178F00", "00050000101D9300"], "usage": ["Unlock challenge stages, fairy companion, costumes"]}
+        ],
+        "Switch": [
+          {"name": "Cyber Shadow", "ids": ["01008D100DE46000"], "usage": ["Unlock fairy companion, player color palette"]},
+          {"name": "Just Shapes & Beats", "ids": ["0100830008426000"], "usage": ["Unlock Shovel Knight remix"]},
+          {"name": "Shovel Knight", "ids": ["010057D0021E8000"], "usage": ["Unlock challenge stages, fairy companion, costumes"]},
+          {"name": "Shovel Knight Dig", "ids": ["0100B62017E68000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Pocket Dungeon", "ids": ["01006B00126EC000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Showdown", "ids": ["0100B380022AE000"], "usage": ["Unlock special costume"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Receive character Spirit"]}
+        ]
+      }
+    },
+    "0x35c30000036e0a02": {
+      "games": {
+        "3DS": [
+          {"name": "Shovel Knight", "ids": ["0004000000119A00", "000400000012CB00", "000400000017C900", "000400000017E100", "0004000000196900"], "usage": ["Unlock challenge stages, fairy companion, costume"]}
+        ],
+        "WiiU": [
+          {"name": "Shovel Knight", "ids": ["000500001016E100", "0005000010178F00", "00050000101D9300"], "usage": ["Unlock challenge stages, fairy companion, costumes"]}
+        ],
+        "Switch": [
+          {"name": "Cyber Shadow", "ids": ["01008D100DE46000"], "usage": ["Unlock fairy companion, player color palette"]},
+          {"name": "Just Shapes & Beats", "ids": ["0100830008426000"], "usage": ["Unlock Shovel Knight remix"]},
+          {"name": "Shovel Knight", "ids": ["010057D0021E8000"], "usage": ["Unlock challenge stages, fairy companion, costumes"]},
+          {"name": "Shovel Knight Dig", "ids": ["0100B62017E68000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Pocket Dungeon", "ids": ["01006B00126EC000"], "usage": ["Summon fairy friend"]},
+          {"name": "Shovel Knight Showdown", "ids": ["0100B380022AE000"], "usage": ["Unlock special costume"]},
+          {"name": "Super Smash Bros. Ultimate", "ids": ["01006A800016E000"], "usage": ["Receive character Spirit"]}
+        ]
+      }
+    }
+  }
+}
