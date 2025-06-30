@@ -6,6 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A0049E062E128E7100D5CC0D /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = A0049E052E128E7100D5CC0D /* FirebaseAuth */; };
+		A0049E082E128E7100D5CC0D /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = A0049E072E128E7100D5CC0D /* FirebaseCore */; };
+		A0D944AF2E12D5B800C82F4B /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = A0D944AE2E12D5B800C82F4B /* FirebaseDatabase */; };
+		A0D944EC2E12D80F00C82F4B /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = A0D944EB2E12D80F00C82F4B /* FirebaseFirestore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		A03BFD0A2E11996B005DF92B /* AmiiboTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AmiiboTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +30,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0D944AF2E12D5B800C82F4B /* FirebaseDatabase in Frameworks */,
+				A0D944EC2E12D80F00C82F4B /* FirebaseFirestore in Frameworks */,
+				A0049E082E128E7100D5CC0D /* FirebaseCore in Frameworks */,
+				A0049E062E128E7100D5CC0D /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +76,10 @@
 			);
 			name = AmiiboTracker;
 			packageProductDependencies = (
+				A0049E052E128E7100D5CC0D /* FirebaseAuth */,
+				A0049E072E128E7100D5CC0D /* FirebaseCore */,
+				A0D944AE2E12D5B800C82F4B /* FirebaseDatabase */,
+				A0D944EB2E12D80F00C82F4B /* FirebaseFirestore */,
 			);
 			productName = AmiiboTracker;
 			productReference = A03BFD0A2E11996B005DF92B /* AmiiboTracker.app */;
@@ -94,6 +109,9 @@
 			);
 			mainGroup = A03BFD012E11996B005DF92B;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A03BFD0B2E11996B005DF92B /* Products */;
 			projectDirPath = "";
@@ -245,14 +263,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"ASSETCATALOG_COMPILER_APPICON_NAME[sdk=macosx*]" = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = AmiiboTracker/AmiiboTracker.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = K6293UD486;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Amiibo Tracker";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -270,6 +292,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sam.AmiiboTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -285,13 +308,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = AmiiboTracker/AmiiboTracker.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = K6293UD486;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Amiibo Tracker";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -309,6 +335,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sam.AmiiboTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -341,6 +368,40 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.15.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A0049E052E128E7100D5CC0D /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		A0049E072E128E7100D5CC0D /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		A0D944AE2E12D5B800C82F4B /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		A0D944EB2E12D80F00C82F4B /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A0049E042E128E7000D5CC0D /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A03BFD022E11996B005DF92B /* Project object */;
 }

@@ -28,10 +28,10 @@ struct FirstBootLoader<Content: View>: View {
         }
         .task {
             if !hasFetchedAmiibos {
-                await service.fetchAmiibos()
+                await service.fetchAmiibos(force: false)
                 hasFetchedAmiibos = true
             } else {
-                await service.fetchAmiibos()
+                await service.fetchAmiibos(force: true)
             }
             isLoading = false
         }

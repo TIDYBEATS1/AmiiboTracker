@@ -19,13 +19,14 @@ struct Amiibo: Codable, Identifiable, Hashable {
     let character: String
     let image: String
     
+    
     var id: String { "0x\(head)\(tail)" }
 
     enum CodingKeys: String, CodingKey {
         case head, tail, name, amiiboSeries, gameSeries, type, character, image
     }
 }
-
 struct AmiiboResponse: Codable {
     let amiibo: [Amiibo]
 }
+
