@@ -1,10 +1,10 @@
 {
   "name": "Amiibo Tracker",
-  "identifier": "com.sam.amiibotracker",
+  "identifier": "com.sam.AmiiboTracker",
   "apps": [
     {
       "name": "Amiibo Tracker",
-      "bundleIdentifier": "com.sam.amiibotracker",
+      "bundleIdentifier": "com.sam.AmiiboTracker",
       "developerName": "TIDYBEATS1",
       "version": "1.0",
       "versionDate": "2025-07-04",
