@@ -12,7 +12,8 @@
       "localizedDescription": "Track and explore your Amiibo collection easily.",
       "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
       "iconURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/icon.png?raw=true",
-      "tintColor": "#ff0000"
+      "tintColor": "#ff0000",
+      "size": 104857600
     }
   ]
 }
