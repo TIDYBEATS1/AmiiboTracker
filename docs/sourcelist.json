@@ -15,11 +15,7 @@
       "localizedDescription": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
       "iconURL": "https://i.imgur.com/WbIzvuR.png",
       "tintColor": "#dc2424",
-      "category": "utilities",
-      "screenshots": [...],
-      "versions": [...],
-      "appPermissions": {...},
-      "patreon": {...}
+      "category": "utilities"
     }
   ],
   "news": [
