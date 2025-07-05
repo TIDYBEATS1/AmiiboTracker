@@ -1,51 +1,22 @@
 {
   "name": "Amiibo Tracker",
-  "subtitle": "For Tracking All Your Amiibo",
-  "description": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#6156e2",
-  "featuredApps": [],
+  "identifier": "com.sam.AmiiboTracker",
   "apps": [
     {
-      "name": "AmiiboTracker",
+      "name": "Amiibo Tracker",
       "bundleIdentifier": "com.sam.AmiiboTracker",
-      "marketplaceID": "",
       "developerName": "TIDYBEATS1",
-      "subtitle": "For Tracking All Your Amiibo",
-      "localizedDescription": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
       "version": "1.0",
-      "date": "2025-07-04",
-      "localizedDescription": "New release!",
+      "versionDate": "2025-07-04",
+      "localizedDescription": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
       "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
+      "iconURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/icon.png?raw=true",
+      "tintColor": "#ff0000",
       "size": 10591122,
-      "buildVersion": null,
-      "minOSVersion": null,
-      "iconURL": "https://i.imgur.com/DhZhiKY.png",
-      "tintColor": "#dc2424",
-      "category": "other",
       "screenshots": [
         "https://i.imgur.com/3H5QDgi.png",
         "https://i.imgur.com/qYjE4lk.png"
       ],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-07-04",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
-          "size": 10591122,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
     }
-  ],
-  "news": []
+  ]
 }
