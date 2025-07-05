@@ -29,5 +29,18 @@
         }
       ]
     }
+  ],
+  "news": [
+    {
+      "title": "First Release",
+      "identifier": "news_ltf59l5re4",
+      "caption": "Introducing a new Amiibo App in AltStore!",
+      "date": "2025-07-05T01:48",
+      "tintColor": "#dc2d31",
+      "imageURL": "https://i.imgur.com/Nqi6QK4.png",
+      "notify": true,
+      "url": "",
+      "appID": "com.sam.AmiiboTracker"
+    }
   ]
 }
