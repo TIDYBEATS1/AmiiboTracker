@@ -26,7 +26,7 @@
         {
           "version": "1.0",
           "date": "2025-07-04",
-          "localizedDescription": "New release!",
+          "localizedDescription": " • 🎉 Initial Release Welcome to AmiiboTracker — the easiest way to manage your entire Amiibo collection! • 🧭 Browse the Full Amiibo Library Explore all Amiibo by series, game line, and type — including figures, cards, and promos. • 📦 Track Your Collection Mark which Amiibo you own, and view them easily in the new My Collection section. • 🎮 See Compatible Games Discover which games support each Amiibo, organized by Switch, Wii U, and 3DS platforms. • 🔍 Detailed Amiibo Info Tap the info icon for each Amiibo to see usage details, release dates, and supported features.",          
           "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
           "size": 10591122,
           "buildVersion": null,
