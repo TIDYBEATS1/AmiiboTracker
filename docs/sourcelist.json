@@ -1,18 +1,23 @@
 {
   "name": "Amiibo Tracker",
-  "identifier": "com.sam.AmiiboTracker",
+  "subtitle": "For Tracking All Your Amiibo",
+  "description": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
   "apps": [
     {
-      "name": "Amiibo Tracker",
+      "name": "AmiiboTracker",
       "bundleIdentifier": "com.sam.AmiiboTracker",
+      "marketplaceID": "",
       "developerName": "TIDYBEATS1",
-      "version": "1.0",
-      "versionDate": "2025-07-04",
+      "subtitle": "For Tracking All Your Amiibo",
       "localizedDescription": "Amiibo Tracker is a handy iOS app that helps you keep track of your Amiibo collection, showing detailed info about each figure, compatible games, and usage. Perfect for collectors and fans to organize and explore Amiibo data all in one place.",
-      "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
-      "iconURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/icon.png?raw=true",
-      "tintColor": "#ff0000",
-      "size": 10591122,
+      "iconURL": "https://i.imgur.com/DhZhiKY.png",
+      "tintColor": "#dc2424",
+      "category": "other",
       "screenshots": [
         "https://i.imgur.com/3H5QDgi.png",
         "https://i.imgur.com/qYjE4lk.png"
@@ -20,22 +25,29 @@
       "versions": [
         {
           "version": "1.0",
+          "date": "2025-07-04",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa?raw=true",
+          "size": 10591122,
           "buildVersion": null,
-          "date": "2025-07-04T20:59:00+01:00",
-          "downloadURL": "https://github.com/TIDYBEATS1/AmiiboTracker/releases/download/1.0/AmiiboTracker.ipa",
-          "size": 10600000,
-          "localizedDescription": " • 🎉 Initial Release Welcome to AmiiboTracker — the easiest way to manage your entire Amiibo collection! • 🧭 Browse the Full Amiibo Library Explore all Amiibo by series, game line, and type — including figures, cards, and promos. • 📦 Track Your Collection Mark which Amiibo you own, and view them easily in the new My Collection section. • 🎮 See Compatible Games Discover which games support each Amiibo, organized by Switch, Wii U, and 3DS platforms. • 🔍 Detailed Amiibo Info Tap the info icon for each Amiibo to see usage details, release dates, and supported features.",
           "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
   ],
   "news": [
     {
-      "title": "First Release",
-      "identifier": "news_ltf59l5re4",
+      "title": "🎉 Initial Release",
+      "identifier": "news_x3pg7f2fux",
       "caption": "Introducing a new Amiibo App in AltStore!",
-      "date": "2025-07-05T01:48",
-      "tintColor": "#dc2d31",
-      "imageURL": "https://i.imgur.com/Nqi6QK4.png",
+      "date": "2025-07-05T02:06",
+      "tintColor": "#f03027",
+      "imageURL": "https://i.imgur.com/h046ZfR.png",
       "notify": true,
       "url": "",
       "appID": "com.sam.AmiiboTracker"
