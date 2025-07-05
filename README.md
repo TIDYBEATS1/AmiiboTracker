@@ -8,3 +8,6 @@ altstore://install?url=https://tidybeats1.github.io/AmiiboTracker/amiibotracker.
 <a href="altstore://install?url=https://tidybeats1.github.io/AmiiboTracker/amiibotracker.ipa">
   <img src="https://altstore.io/assets/images/install-altstore.svg" alt="Install with AltStore" style="height:40px;">
 </a>
+
+
+altstore://install?url=https://tidybeats1.github.io/AmiiboTracker/amiibotracker.ipa
